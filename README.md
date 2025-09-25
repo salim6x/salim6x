@@ -1,3 +1,5 @@
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/byteaix?igsh=Zmc1MWEwZTNpeTd5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mdsalim6x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salimmd9354@gmail.com) 
