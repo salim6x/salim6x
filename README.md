@@ -29,7 +29,7 @@ A MERN stack e-commerce app with JWT authentication, Razorpay payment integratio
 - **Stack:** MongoDB · Express · React · Node.js
 - **Features:** JWT Auth, Razorpay Payments, Cloudinary Uploads, Admin Dashboard
 - **Deployment:** Frontend on Vercel · Backend on Render
-- 🔗 [Live Demo](https://novamart-pied.vercel.app/) · [Repository](https://github.com/your-username/novamart)
+- 🔗 [Live Demo](https://novamart-pied.vercel.app/) · [Repository](https://github.com/salim6x/novamart)
 
 ### 🕹️ Flutter Wings — Browser Game
 A JavaScript-based browser game built from scratch, focusing on game logic, animation, and interactive UI.
