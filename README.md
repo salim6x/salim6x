@@ -16,7 +16,6 @@
 
 - 🔭 I'm currently building **full-stack MERN applications** with real-world features like authentication, payments, and admin dashboards
 - 🌱 I'm continuing to sharpen my skills in **Next.js, TypeScript, and cloud deployment**
-- ☁️ AWS Certified Cloud Practitioner (June 2025)
 - 🎓 BCA (Bachelor of Computer Applications), IGNOU (2023–2026)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, JWT Auth, and Docker**
 
