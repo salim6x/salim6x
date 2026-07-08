@@ -34,7 +34,7 @@ A MERN stack e-commerce app with JWT authentication, Razorpay payment integratio
 ### 🕹️ Flutter Wings — Browser Game
 A JavaScript-based browser game built from scratch, focusing on game logic, animation, and interactive UI.
 - **Stack:** JavaScript · HTML5 Canvas · CSS3
-- 🔗 [Play Now](https://your-flutterwings-link.vercel.app) · [Repository](https://github.com/your-username/flutter-wings)
+- 🔗 [Play Now](https://salim6x.github.io/flappy-wings/) · [Repository](https://github.com/salim6x/flappy-wings)
 
 ---
 
